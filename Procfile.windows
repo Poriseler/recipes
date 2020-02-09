@@ -1,1 +1,1 @@
-web: gunicorn recipes.wsgi
+web: python manage.py runserver
